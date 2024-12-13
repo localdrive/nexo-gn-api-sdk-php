@@ -1,3 +1,9 @@
+# ℹ️ Why does this fork exist?
+
+The Nexo's API was written with an extremely deprecated version of the Symfony Framework version, which doesn't support EFI SDK updates anymore due to libraries incompatibility.
+Because of rebranding reasons, the Efí is updating it's endpoints from Gerencianet to Efí, and we need to update it in the SDK too in order to keep using in with the deprecated SDK.
+The only change will live in the `base_url` pointing to Efí domain, just for internal usage and this lib won't be published.
+
 <h1 align="center">SDK Gerencianet for PHP</h1>
 
 ![Gerencianet is now Efí](https://sejaefi.link/rylucSCXT3)
