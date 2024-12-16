@@ -1,3 +1,9 @@
+# ℹ️ Por que este fork existe?
+
+A API da Nexo está com uma versão extremamente desatualizada do Symfony Framework, que não suporta mais atualizações do SDK da Efí (antiga Gerencianet).
+Por questões de rebranding, a Efí está atualizando seus endpoints de Gerencianet -> Efí, e precisamos alterar no SDK, pois o novo Efi SDK não é suportado.
+Então será apenas atualizada a `base_url` dos endoints neste SDK apenas para uso interno no projeto Nexo. Não será publicado.
+
 ![SDK Gerencianet for PHP](https://media-exp1.licdn.com/dms/image/C4D1BAQH9taNIaZyh_Q/company-background_10000/0/1603126623964?e=2159024400&v=beta&t=coQC_AK70vTYL3NdvbeIaeYts8nKumNHjvvIGCmq5XA)
  
 <h1 align="center">SDK Gerencianet for PHP</h1>

@@ -1,7 +1,7 @@
 {
-  "name": "gerencianet/gerencianet-sdk-php",
-  "description": "GN API SDK PHP",
-  "version": "4.0.1",
+  "name": "nexo/nexo-gerencianet-sdk-php",
+  "description": "Modified version of GN API SDK PHP to use the new Efi base_url",
+  "version": "4.0.1-nexo",
   "require": {
     "guzzlehttp/guzzle": "^7.0",
     "php": ">=7.2"
