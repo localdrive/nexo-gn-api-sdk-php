@@ -1,5 +1,5 @@
 {
-	"name": "gerencianet/gerencianet-sdk-php",
+	"name": "localdrive/nexo-gerencianet-sdk-php",
 	"description": "GN APIs SDK PHP",
 	"homepage": "https://github.com/gerencianet/gn-api-sdk-php",
 	"version": "5.1.4",
